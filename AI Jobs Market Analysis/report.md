@@ -163,13 +163,12 @@ This project demonstrates the ability to **analyze datasets and present meaningf
 
 ## 👩‍💻 Author
 
-**Nisha Kumari**  
+**Anurag Jarwal**  
 B.Tech – Computer Science Engineering  
 
 🔗 GitHub:  
-https://github.com/Nk2603
+https://github.com/anuragjarwal767
 
-🔗 LinkedIn:  
-www.linkedin.com/in/nisha-kumari-3b453928a
+
 
 ---
